@@ -1,4 +1,4 @@
-# Pneumonia Detection from Chest X-Ray Images using CNN
+# Pneumonia Detection using CNN
 This repository contains code and resources for training a deep learning model to detect pneumonia from chest X-ray images using Convolutional Neural Networks (CNN). The model is trained on a dataset consisting of chest X-ray images labeled as either normal or pneumonia.
 
 ## Dataset
@@ -15,18 +15,19 @@ The following dependencies are required to run the code in this repository:
 - NumPy
 - Matplotlib
 - Pandas
+- OpenCV
 
 ## You can install the required dependencies using the following command:
 
-``` pip install tensorflow keras numpy matplotlib pandas ```
+``` pip install tensorflow keras numpy matplotlib pandas opencv-python ```
 
 
 ## Model Architecture
 The model is a Convolutional Neural Network (CNN) with the following architecture:
 
-- Input layer: 224x224x3 images
-- Convolutional layers
+- Convolutional layers with ReLU activation
 - Max pooling layers
+- Dropout layers for regularization
 - Fully connected layers
 - Output layer with softmax activation for binary classification (normal or pneumonia)
 
