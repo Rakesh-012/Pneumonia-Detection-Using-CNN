@@ -1,4 +1,4 @@
-# Pneumonia Detection from Chest X-Ray Images using CNN
+# Pneumonia Detection using CNN
 This repository contains code and resources for training a deep learning model to detect pneumonia from chest X-ray images using Convolutional Neural Networks (CNN). The model is trained on a dataset consisting of chest X-ray images labeled as either normal or pneumonia.
 
 ## Dataset
@@ -9,7 +9,7 @@ The dataset consists of a training set, a validation set, and a test set, with i
 ## Dependencies
 The following dependencies are required to run the code in this repository:
 
-- *Python 3.x*
+- *Python 3*
 - *TensorFlow*
 - *Keras*
 - *NumPy*
