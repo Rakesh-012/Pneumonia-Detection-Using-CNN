@@ -4,7 +4,7 @@ This repository contains code and resources for training a deep learning model t
 ## Dataset
 The dataset used for training the model was initially obtained from Kaggle. I have made some modifications to the dataset, and the updated version can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1D5CzjUWsqyaI4UkqxcHXTHKo29z0Sbtl?usp=drive_link).
 
-The dataset consists of a training set, a validation set, and a test set, with images classified into two categories: normal and pneumonia.
+The dataset consists of a training set, and a test set, with images classified into two categories: normal and pneumonia.
 
 ## Dependencies
 The following dependencies are required to run the code in this repository:
