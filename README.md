@@ -15,10 +15,11 @@ The following dependencies are required to run the code in this repository:
 - NumPy
 - Matplotlib
 - Pandas
+- OpenCV
 
 ## You can install the required dependencies using the following command:
 
-``` pip install tensorflow keras numpy matplotlib pandas ```
+``` pip install tensorflow keras numpy matplotlib pandas opencv-python```
 
 
 ## Model Architecture
