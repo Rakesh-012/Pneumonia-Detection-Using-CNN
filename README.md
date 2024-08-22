@@ -2,7 +2,8 @@
 This repository contains code and resources for training a deep learning model to detect pneumonia from chest X-ray images using Convolutional Neural Networks (CNN). The model is trained on a dataset consisting of chest X-ray images labeled as either normal or pneumonia.
 
 ## Dataset
-The dataset used for training the model was initially obtained from Kaggle. I have made some modifications to the dataset, and the updated version can be downloaded from [Google Drive.](https://drive.google.com/drive/folders/1nnfFqdPVLCAiSdTaNEGNc7WWELP7eMfz?usp=drive_link)
+The dataset used for training the model was initially obtained from Kaggle. I have made some modifications to the dataset, and the updated version can be downloaded from [Google Drive.]
+(https://drive.google.com/drive/folders/1D5CzjUWsqyaI4UkqxcHXTHKo29z0Sbtl?usp=sharing)
 
 The dataset consists of a training set, a validation set, and a test set, with images classified into two categories: normal and pneumonia.
 
